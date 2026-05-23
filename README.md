@@ -28,4 +28,4 @@ Importe libfoo.so dans Ghidra, procède à l'analyse du binaire et extrait le co
 <img width="412" height="843" alt="Test du code - tentative 1" src="https://github.com/user-attachments/assets/d9d49da9-2c1e-4a64-8b56-46bc9e2467ee" />
 <img width="412" height="850" alt="Test du code - résultat" src="https://github.com/user-attachments/assets/bf139f7f-efc8-4f95-a7ee-4b981cd1a4b0" />
 
-saisit le code secret obtenu par l'analyse statique directement dans l'application. Le résultat confirme que le reverse engineering a permis d'identifier correctement la valeur attendue.
+saisit le code secret obtenu par l'analyse statique directement dans l'application. Le résultat confirme que le reverse engineering a permis d'identifier correctement la valeur attendue..
